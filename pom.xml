@@ -12,9 +12,9 @@
     <module>sampleCompositeExporter</module>
   </modules>
   <scm>
-    <connection>scm:git:https://github.com/username/repository.git</connection>
-    <developerConnection>scm:git:https://github.com/username/repository.git</developerConnection>
-    <url>https://github.com/username/repository.git</url>
+    <connection>scm:git:https://github.com/Samitha-001/sample.git</connection>
+    <developerConnection>scm:git:https://github.com/Samitha-001/sample.git</developerConnection>
+    <url>https://github.com/Samitha-001/sample.git</url>
     <tag>sample-1.0.0</tag>
   </scm>
   <distributionManagement>
